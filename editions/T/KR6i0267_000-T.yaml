@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0267/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說成具光明定意經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0630.xml
+    old_id: T15n0630
+hash: sha256:84f43fd9fd46090437df19e6262ca626112e3b15e72f4c2336a7958d33bbacf6

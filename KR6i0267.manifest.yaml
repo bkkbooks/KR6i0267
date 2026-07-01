@@ -1,0 +1,57 @@
+canonical_identifier: bkk:krp/KR6i0267/v1
+canonical_location: https://kanripo.org/bkk/KR6i0267/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說成具光明定意經
+  identifiers:
+    alt_id:
+    - T15n0630
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0630.xml
+    old_id: T15n0630
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit5
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0267_000.yaml, hash: 'sha256:84f43fd9fd46090437df19e6262ca626112e3b15e72f4c2336a7958d33bbacf6'}
+  - {seq: 1, filename: KR6i0267_001.yaml, hash: 'sha256:14afcff4bcb0566d3b9a8e8ac913126f080a9fffb2dd4dd9c78a9b6dfbb8f40d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0267_001.markers.yaml, hash: 'sha256:159eb6eb58d64c2da27ac0ea3b3fbf3f900b9f2d93997268e927161a5a9bc15c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0267_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9816
+  label: 佛說成具光明定意經
+  type: juan
+  level: 1
+hash: sha256:6d5704c9a2dab4a1724c8b416f23ea816a6d61c74eed0c1c624dc2740c464504
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
