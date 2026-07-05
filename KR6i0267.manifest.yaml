@@ -37,9 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0267_000.yaml, hash: 'sha256:84f43fd9fd46090437df19e6262ca626112e3b15e72f4c2336a7958d33bbacf6'}
-  - {seq: 1, filename: KR6i0267_001.yaml, hash: 'sha256:14afcff4bcb0566d3b9a8e8ac913126f080a9fffb2dd4dd9c78a9b6dfbb8f40d'}
+  - {seq: 1, filename: KR6i0267_001.yaml, hash: 'sha256:c3d1514cb5adc492ba8cb10e89b03b65cba1e7f8438b636906ebeb36fa7c9abf'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0267_001.markers.yaml, hash: 'sha256:159eb6eb58d64c2da27ac0ea3b3fbf3f900b9f2d93997268e927161a5a9bc15c'}
+  - {seq: 0, role: markers, filename: assets/KR6i0267_000.markers.yaml, hash: 'sha256:5cf5c035926927d2fb1d94e600d043a1ccb1f2a52dcd6962946c5f73fe1a70af'}
+  - {seq: 1, role: markers, filename: assets/KR6i0267_001.markers.yaml, hash: 'sha256:6c1f4484432a503128f4df083446c2d78dc6f2163d7896d9a014fe24c91f748d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,7 +52,4 @@ table_of_contents:
   label: 佛說成具光明定意經
   type: juan
   level: 1
-hash: sha256:6d5704c9a2dab4a1724c8b416f23ea816a6d61c74eed0c1c624dc2740c464504
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7d5542912d9fe93d56743680226de028014be5f0689d6bfd1b35344edf8d889a
